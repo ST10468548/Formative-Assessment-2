@@ -59,8 +59,4 @@ The app consists of three main screens:
 
 - [Screenshots](https://github.com/ST10468548/Formative-Assessment-2/issues/1)
 
-
 ---
-
-## Folder Structure
-
