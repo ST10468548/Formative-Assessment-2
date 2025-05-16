@@ -12,7 +12,7 @@ A native Android application built using **Kotlin** in **Android Studio** to hel
 
 ## YouTube Demo Video
 
-[Watch the Demo]()  
+[Watch the Demo](https://youtu.be/omGc9r-Tw5o?si=ZAeAAUQGl3v73_h0)  
 
 ---
 
