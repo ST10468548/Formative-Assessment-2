@@ -64,8 +64,9 @@ The app consists of three main screens:
 ## Screenshots
 
 | Welcome Screen | Question Screen | Score Screen |
-|----------------|------------------|----------------|
-| ![Welcome](screenshots/welcome_screen.png) | ![Question](screenshots/question_screen.png) | ![Score](screenshots/score_screen.png) |
+
+- [Screenshots](https://github.com/ST10468548/Formative-Assessment-2/issues/1)
+
 
 ---
 
