@@ -53,14 +53,6 @@ The app consists of three main screens:
 
 ---
 
-## GitHub & GitHub Actions
-
-- The full project is managed on GitHub, using branches for changes and pull requests.
-- GitHub Actions is used for automated builds using a custom `.github/workflows/build.yml` file.
-  - [Sample GitHub Action Config](https://github.com/IMAD5112/Github-actions/blob/main/github/workflows/build.yml)
-
----
-
 ## Screenshots
 
 | Welcome Screen | Question Screen | Score Screen |
