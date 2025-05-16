@@ -6,7 +6,7 @@ A native Android application built using **Kotlin** in **Android Studio** to hel
 
 ## GitHub Repository
 
-[GitHub Repo Link]([https://github.com/your-username/history-flashcard-app](https://github.com/ST10468548/Formative-Assessment-2/new/main?filename=README.md))  
+[GitHub Repo Link](https://github.com/ST10468548/Formative-Assessment-2/new/main?filename=README.md)  
 
 ---
 
